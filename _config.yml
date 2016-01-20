@@ -1,0 +1,14 @@
+layout_spectrum: 0.02508961
+color:
+  saturation: 0.2286614
+  lightness: 0.967697
+  brandStrength: 0.7401434
+  brandColors:
+    - '#FFFFFF'
+    - '#2F211F'
+    - '#884A42'
+    - '#E9BF90'
+    - '#B39B88'
+  rhythmicContrast: 0.1722836
+typography_spectrum: 0.01126345
+name: Mongo
